@@ -2,7 +2,6 @@
   <h1><b>Hi there, I'm Jozef Rebjak</h1>
 </p>
 <p>
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jozefrebjak)
 <a href="https://www.linkedin.com/in/jozefrebjak"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://hashnode.com/@jozefrebjak"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp;
 </p>
