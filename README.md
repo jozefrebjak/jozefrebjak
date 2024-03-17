@@ -1,11 +1,8 @@
-<p>
-  <h1><b>Hi there, I'm Jozef Rebjak</h1>
-</p>
-<p>
+### Hi there I am Jozef Rebjak<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br/>
+
 <a href="https://www.linkedin.com/in/jozefrebjak"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://hashnode.com/@jozefrebjak"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp;
-</p>
-<br />
 
 ### Languages and tools ⚙️
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
