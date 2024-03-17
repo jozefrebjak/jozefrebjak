@@ -20,6 +20,7 @@
 </p>
 
 ### My Github Stats 📊
+(https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jozefrebjak&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 
 ### ✨ My Recent Activity
