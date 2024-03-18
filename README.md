@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/ict-solutions-dev/codeigniter-freeradius/issues/2) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-2. ❗ Opened issue [#1](https://github.com/ict-solutions-dev/codeigniter-freeradius/issues/1) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-3. 🚀 Published release [v1.0.0](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.0) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-4. 🚀 Published release [v1.0.2](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.2) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-5. 🚀 Published release [v1.0.1](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.1) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+1. 🎉 Merged PR [#9](https://github.com/ict-solutions-dev/codeigniter-dompdf/pull/9) in [ict-solutions-dev/codeigniter-dompdf](https://github.com/ict-solutions-dev/codeigniter-dompdf)
+2. ❌ Closed PR [#14](https://github.com/ict-solutions-dev/codeigniter-dompdf/pull/14) in [ict-solutions-dev/codeigniter-dompdf](https://github.com/ict-solutions-dev/codeigniter-dompdf)
+3. 🎉 Merged PR [#15](https://github.com/ict-solutions-dev/codeigniter-dompdf/pull/15) in [ict-solutions-dev/codeigniter-dompdf](https://github.com/ict-solutions-dev/codeigniter-dompdf)
+4. 🎉 Merged PR [#16](https://github.com/ict-solutions-dev/codeigniter-dompdf/pull/16) in [ict-solutions-dev/codeigniter-dompdf](https://github.com/ict-solutions-dev/codeigniter-dompdf)
+5. ❗ Opened issue [#2](https://github.com/ict-solutions-dev/codeigniter-freeradius/issues/2) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
