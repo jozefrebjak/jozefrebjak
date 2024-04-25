@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/ict-solutions-dev/codeigniter-freeradius/issues/1) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-2. 🔒 Closed issue [#2](https://github.com/ict-solutions-dev/codeigniter-freeradius/issues/2) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-3. 🚀 Published release [v1.0.1](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.1) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-4. 🗣 Commented on [#2450](https://github.com/bigskysoftware/htmx/issues/2450#issuecomment-2051677923) in [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
-5. 💪 Opened PR [#2478](https://github.com/bigskysoftware/htmx/pull/2478) in [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
+1. 🗣 Commented on [#2478](https://github.com/bigskysoftware/htmx/pull/2478#issuecomment-2078175840) in [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
+2. 🔒 Closed issue [#1](https://github.com/ict-solutions-dev/codeigniter-freeradius/issues/1) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+3. 🔒 Closed issue [#2](https://github.com/ict-solutions-dev/codeigniter-freeradius/issues/2) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+4. 🚀 Published release [v1.0.1](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.1) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+5. 🗣 Commented on [#2450](https://github.com/bigskysoftware/htmx/issues/2450#issuecomment-2051677923) in [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
