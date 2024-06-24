@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.2](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.2) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-2. 🎉 Merged PR [#4](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/4) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-3. 💪 Opened PR [#4](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/4) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-4. 🗣 Commented on [#1122](https://github.com/codeigniter4/shield/pull/1122#issuecomment-2151916793) in [codeigniter4/shield](https://github.com/codeigniter4/shield)
-5. 🗣 Commented on [#2478](https://github.com/bigskysoftware/htmx/pull/2478#issuecomment-2078175840) in [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
+1. 🎉 Merged PR [#5](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/5) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+2. 🚀 Published release [v1.0.2](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.2) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+3. 🎉 Merged PR [#4](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/4) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+4. 💪 Opened PR [#4](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/4) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+5. 🗣 Commented on [#1122](https://github.com/codeigniter4/shield/pull/1122#issuecomment-2151916793) in [codeigniter4/shield](https://github.com/codeigniter4/shield)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
