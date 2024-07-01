@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/7) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-2. 🎉 Merged PR [#6](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/6) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-3. 🎉 Merged PR [#5](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/5) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-4. 🚀 Published release [v1.0.2](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.2) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-5. 🎉 Merged PR [#4](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/4) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+1. 🎉 Merged PR [#7](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/7) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+2. 💪 Opened PR [#7](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/7) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+3. 🎉 Merged PR [#6](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/6) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+4. 🎉 Merged PR [#5](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/5) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+5. 🚀 Published release [v1.0.2](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.2) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
