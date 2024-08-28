@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.3](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.3) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-2. 🎉 Merged PR [#4](https://github.com/ict-solutions-dev/docker-freeradius-server/pull/4) in [ict-solutions-dev/docker-freeradius-server](https://github.com/ict-solutions-dev/docker-freeradius-server)
-3. 🚀 Published release [v1.0.3](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs/releases/tag/v1.0.3) in [ict-solutions-dev/codeigniter-breadcrumbs](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs)
-4. 🎉 Merged PR [#21](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs/pull/21) in [ict-solutions-dev/codeigniter-breadcrumbs](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs)
-5. 💪 Opened PR [#21](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs/pull/21) in [ict-solutions-dev/codeigniter-breadcrumbs](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs)
+1. 🚀 Published release [v1.0.4](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.4) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+2. 🎉 Merged PR [#11](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/11) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+3. 💪 Opened PR [#11](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/11) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+4. 🚀 Published release [v1.0.3](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.3) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+5. 🎉 Merged PR [#4](https://github.com/ict-solutions-dev/docker-freeradius-server/pull/4) in [ict-solutions-dev/docker-freeradius-server](https://github.com/ict-solutions-dev/docker-freeradius-server)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
