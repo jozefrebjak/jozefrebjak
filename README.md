@@ -27,10 +27,10 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1694](https://github.com/tabler/tabler/issues/1694#issuecomment-2324809240) in [tabler/tabler](https://github.com/tabler/tabler)
-2. 🚀 Published release [v1.0.4](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.4) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-3. 🎉 Merged PR [#11](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/11) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-4. 💪 Opened PR [#11](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/11) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+1. 🚀 Published release [v1.0.5](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.5) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+2. 🎉 Merged PR [#12](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/12) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+3. 💪 Opened PR [#12](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/12) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+4. 🗣 Commented on [#1694](https://github.com/tabler/tabler/issues/1694#issuecomment-2324809240) in [tabler/tabler](https://github.com/tabler/tabler)
 5. 🚀 Published release [v1.0.3](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.3) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
 <!--END_SECTION:activity-->
   
