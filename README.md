@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/16) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-2. 💪 Opened PR [#16](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/16) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-3. 🚀 Published release [v1.0.6](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.6) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-4. 🎉 Merged PR [#15](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/15) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-5. 💪 Opened PR [#15](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/15) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+1. ❗ Opened issue [#204](https://github.com/tiredofit/docker-freescout/issues/204) in [tiredofit/docker-freescout](https://github.com/tiredofit/docker-freescout)
+2. 🎉 Merged PR [#16](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/16) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+3. 💪 Opened PR [#16](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/16) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+4. 🚀 Published release [v1.0.6](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.6) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+5. 🎉 Merged PR [#15](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/15) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
