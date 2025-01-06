@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/17) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-2. 🎉 Merged PR [#1](https://github.com/ict-solutions-sro/email-assets/pull/1) in [ict-solutions-sro/email-assets](https://github.com/ict-solutions-sro/email-assets)
-3. 💪 Opened PR [#1](https://github.com/ict-solutions-sro/email-assets/pull/1) in [ict-solutions-sro/email-assets](https://github.com/ict-solutions-sro/email-assets)
-4. ❗ Opened issue [#4418](https://github.com/freescout-help-desk/freescout/issues/4418) in [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout)
-5. ❗ Opened issue [#204](https://github.com/tiredofit/docker-freescout/issues/204) in [tiredofit/docker-freescout](https://github.com/tiredofit/docker-freescout)
+1. 🚀 Published release [v1.1.0](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.1.0) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+2. 🎉 Merged PR [#17](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/17) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+3. 💪 Opened PR [#17](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/17) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+4. 🎉 Merged PR [#1](https://github.com/ict-solutions-sro/email-assets/pull/1) in [ict-solutions-sro/email-assets](https://github.com/ict-solutions-sro/email-assets)
+5. 💪 Opened PR [#1](https://github.com/ict-solutions-sro/email-assets/pull/1) in [ict-solutions-sro/email-assets](https://github.com/ict-solutions-sro/email-assets)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
