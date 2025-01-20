@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/ict-solutions-dev/docker-freeradius-server/pull/5#issuecomment-2592105767) in [ict-solutions-dev/docker-freeradius-server](https://github.com/ict-solutions-dev/docker-freeradius-server)
-2. 🚀 Published release [v1.1.0](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.1.0) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-3. 🎉 Merged PR [#17](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/17) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-4. 💪 Opened PR [#17](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/17) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-5. 🎉 Merged PR [#1](https://github.com/ict-solutions-sro/email-assets/pull/1) in [ict-solutions-sro/email-assets](https://github.com/ict-solutions-sro/email-assets)
+1. 🚀 Published release [v1.0.0](https://github.com/ict-solutions-dev/docker-duoauthproxy/releases/tag/v1.0.0) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+2. 🗣 Commented on [#5](https://github.com/ict-solutions-dev/docker-freeradius-server/pull/5#issuecomment-2592105767) in [ict-solutions-dev/docker-freeradius-server](https://github.com/ict-solutions-dev/docker-freeradius-server)
+3. 🚀 Published release [v1.1.0](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.1.0) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+4. 🎉 Merged PR [#17](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/17) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+5. 💪 Opened PR [#17](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/17) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
