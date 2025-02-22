@@ -27,7 +27,7 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#910](https://github.com/prometheus/mysqld_exporter/issues/910) in [prometheus/mysqld_exporter](https://github.com/prometheus/mysqld_exporter)
+1. 🗣 Commented on [#1253](https://github.com/codeigniter4/shield/pull/1253#issuecomment-2675464017) in [codeigniter4/shield](https://github.com/codeigniter4/shield)
 2. 🚀 Published release [v1.0.0](https://github.com/ict-solutions-dev/docker-duoauthproxy/releases/tag/v1.0.0) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
 3. 🗣 Commented on [#5](https://github.com/ict-solutions-dev/docker-freeradius-server/pull/5#issuecomment-2592105767) in [ict-solutions-dev/docker-freeradius-server](https://github.com/ict-solutions-dev/docker-freeradius-server)
 4. 🚀 Published release [v1.1.0](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.1.0) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
