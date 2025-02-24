@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/18) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-2. 💪 Opened PR [#18](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/18) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-3. 🗣 Commented on [#1253](https://github.com/codeigniter4/shield/pull/1253#issuecomment-2675464017) in [codeigniter4/shield](https://github.com/codeigniter4/shield)
-4. 🚀 Published release [v1.1.0](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.1.0) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-5. 🎉 Merged PR [#17](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/17) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+1. 🎉 Merged PR [#19](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/19) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+2. 💪 Opened PR [#19](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/19) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+3. 🎉 Merged PR [#18](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/18) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+4. 💪 Opened PR [#18](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/18) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+5. 🗣 Commented on [#1253](https://github.com/codeigniter4/shield/pull/1253#issuecomment-2675464017) in [codeigniter4/shield](https://github.com/codeigniter4/shield)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
