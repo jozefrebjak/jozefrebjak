@@ -27,10 +27,10 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.4](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs/releases/tag/v1.0.4) in [ict-solutions-dev/codeigniter-breadcrumbs](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs)
-2. 🚀 Published release [v1.0.0](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.0) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-3. 🗣 Commented on [#2197](https://github.com/tabler/tabler/issues/2197#issuecomment-2711926304) in [tabler/tabler](https://github.com/tabler/tabler)
-4. 🗣 Commented on [#2197](https://github.com/tabler/tabler/issues/2197#issuecomment-2711764337) in [tabler/tabler](https://github.com/tabler/tabler)
+1. 💪 Opened PR [#54](https://github.com/tattersoftware/codeigniter4-relations/pull/54) in [tattersoftware/codeigniter4-relations](https://github.com/tattersoftware/codeigniter4-relations)
+2. ❌ Closed PR [#54](https://github.com/tattersoftware/codeigniter4-relations/pull/54) in [tattersoftware/codeigniter4-relations](https://github.com/tattersoftware/codeigniter4-relations)
+3. 🚀 Published release [v1.0.4](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs/releases/tag/v1.0.4) in [ict-solutions-dev/codeigniter-breadcrumbs](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs)
+4. 🚀 Published release [v1.0.0](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.0) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
 5. 🔒 Closed issue [#21](https://github.com/ict-solutions-dev/codeigniter-freeradius/issues/21) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
 <!--END_SECTION:activity-->
   
