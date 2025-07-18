@@ -27,9 +27,9 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1279](https://github.com/codeigniter4/shield/pull/1279#issuecomment-3078555183) in [codeigniter4/shield](https://github.com/codeigniter4/shield)
-2. 💪 Opened PR [#1279](https://github.com/codeigniter4/shield/pull/1279) in [codeigniter4/shield](https://github.com/codeigniter4/shield)
-3. 🚀 Published release [v1.0.4](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs/releases/tag/v1.0.4) in [ict-solutions-dev/codeigniter-breadcrumbs](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs)
+1. ❗ Opened issue [#739](https://github.com/poweradmin/poweradmin/issues/739) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
+2. 🗣 Commented on [#1279](https://github.com/codeigniter4/shield/pull/1279#issuecomment-3078555183) in [codeigniter4/shield](https://github.com/codeigniter4/shield)
+3. 💪 Opened PR [#1279](https://github.com/codeigniter4/shield/pull/1279) in [codeigniter4/shield](https://github.com/codeigniter4/shield)
 4. 🚀 Published release [v1.0.0](https://github.com/ict-solutions-dev/codeigniter-freeradius/releases/tag/v1.0.0) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
 5. 🔒 Closed issue [#21](https://github.com/ict-solutions-dev/codeigniter-freeradius/issues/21) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
 <!--END_SECTION:activity-->
