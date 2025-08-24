@@ -27,9 +27,9 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#744](https://github.com/poweradmin/poweradmin/issues/744) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
-2. 🗣 Commented on [#739](https://github.com/poweradmin/poweradmin/issues/739#issuecomment-3139978519) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
-3. ❗ Opened issue [#7](https://github.com/tiredofit/docker-bookstack/issues/7) in [tiredofit/docker-bookstack](https://github.com/tiredofit/docker-bookstack)
+1. 🗣 Commented on [#296](https://github.com/poweradmin/poweradmin/issues/296#issuecomment-3218364657) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
+2. ❗ Opened issue [#744](https://github.com/poweradmin/poweradmin/issues/744) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
+3. 🗣 Commented on [#739](https://github.com/poweradmin/poweradmin/issues/739#issuecomment-3139978519) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
 4. 🎉 Merged PR [#1](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/1) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
 5. 🗣 Commented on [#739](https://github.com/poweradmin/poweradmin/issues/739#issuecomment-3088726227) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
 <!--END_SECTION:activity-->
