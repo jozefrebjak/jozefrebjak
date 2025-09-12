@@ -27,10 +27,10 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs/pull/22) in [ict-solutions-dev/codeigniter-breadcrumbs](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs)
-2. 🎉 Merged PR [#23](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/23) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
-3. 🗣 Commented on [#296](https://github.com/poweradmin/poweradmin/issues/296#issuecomment-3218364657) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
-4. 🗣 Commented on [#4](https://github.com/tiredofit/docker-bookstack/issues/4#issuecomment-3205126966) in [tiredofit/docker-bookstack](https://github.com/tiredofit/docker-bookstack)
+1. ❗ Opened issue [#775](https://github.com/poweradmin/poweradmin/issues/775) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
+2. 🎉 Merged PR [#22](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs/pull/22) in [ict-solutions-dev/codeigniter-breadcrumbs](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs)
+3. 🎉 Merged PR [#23](https://github.com/ict-solutions-dev/codeigniter-freeradius/pull/23) in [ict-solutions-dev/codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius)
+4. 🗣 Commented on [#296](https://github.com/poweradmin/poweradmin/issues/296#issuecomment-3218364657) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
 5. 🗣 Commented on [#739](https://github.com/poweradmin/poweradmin/issues/739#issuecomment-3088726227) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
 <!--END_SECTION:activity-->
   
