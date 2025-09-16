@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#780](https://github.com/poweradmin/poweradmin/issues/780#issuecomment-3295931467) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
-2. ❗ Opened issue [#780](https://github.com/poweradmin/poweradmin/issues/780) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
-3. 🗣 Commented on [#779](https://github.com/poweradmin/poweradmin/issues/779#issuecomment-3289472116) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
-4. ❗ Opened issue [#779](https://github.com/poweradmin/poweradmin/issues/779) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
-5. ❗ Opened issue [#778](https://github.com/poweradmin/poweradmin/issues/778) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
+1. 🎉 Merged PR [#8](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/8) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+2. 🎉 Merged PR [#7](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/7) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+3. 🎉 Merged PR [#6](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/6) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+4. 🎉 Merged PR [#3](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/3) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+5. 🎉 Merged PR [#2](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/2) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
