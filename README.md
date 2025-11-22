@@ -27,8 +27,8 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0](https://github.com/ict-solutions-dev/docker-duoauthproxy/releases/tag/v1.1.0) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
-2. 💪 Opened PR [#2](undefined) in [davodm/codeigniter4-turnstile](https://github.com/davodm/codeigniter4-turnstile)
+1. 🗣 Commented on [#12](https://github.com/michalsn/codeigniter-markdown-pages/issues/12#issuecomment-3567073705) in [michalsn/codeigniter-markdown-pages](https://github.com/michalsn/codeigniter-markdown-pages)
+2. ❗ Opened issue [#12](https://github.com/michalsn/codeigniter-markdown-pages/issues/12) in [michalsn/codeigniter-markdown-pages](https://github.com/michalsn/codeigniter-markdown-pages)
 3. 🗣 Commented on [#787](https://github.com/poweradmin/poweradmin/issues/787#issuecomment-3332386622) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
 4. ❗ Opened issue [#787](https://github.com/poweradmin/poweradmin/issues/787) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
 5. 🗣 Commented on [#785](https://github.com/poweradmin/poweradmin/pull/785#issuecomment-3317367442) in [poweradmin/poweradmin](https://github.com/poweradmin/poweradmin)
