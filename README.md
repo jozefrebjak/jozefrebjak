@@ -27,10 +27,10 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2810](undefined) in [knadh/listmonk](https://github.com/knadh/listmonk)
-2. 💪 Opened PR [#2810](undefined) in [knadh/listmonk](https://github.com/knadh/listmonk)
-3. 💪 Opened PR [#1](undefined) in [jozefrebjak/listmonk](https://github.com/jozefrebjak/listmonk)
-4. 🗣 Commented on [#399](https://github.com/shinsenter/php/issues/399#issuecomment-3586132577) in [shinsenter/php](https://github.com/shinsenter/php)
+1. ❗ Opened issue [#407](https://github.com/shinsenter/php/issues/407) in [shinsenter/php](https://github.com/shinsenter/php)
+2. ❌ Merged PR [#2810](undefined) in [knadh/listmonk](https://github.com/knadh/listmonk)
+3. 💪 Opened PR [#2810](undefined) in [knadh/listmonk](https://github.com/knadh/listmonk)
+4. 💪 Opened PR [#1](undefined) in [jozefrebjak/listmonk](https://github.com/jozefrebjak/listmonk)
 5. 🗣 Commented on [#399](https://github.com/shinsenter/php/issues/399#issuecomment-3586062302) in [shinsenter/php](https://github.com/shinsenter/php)
 <!--END_SECTION:activity-->
   
