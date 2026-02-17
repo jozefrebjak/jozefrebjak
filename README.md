@@ -27,9 +27,9 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/michalsn/codeigniter-htmx/pull/89) in [michalsn/codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx)
-2. 💪 Opened PR [#89](https://github.com/michalsn/codeigniter-htmx/pull/89) in [michalsn/codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx)
-3. 💪 Opened PR [#2810](https://github.com/knadh/listmonk/pull/2810) in [knadh/listmonk](https://github.com/knadh/listmonk)
+1. 🗣 Commented on [#128](https://github.com/MehediDracula/PHP-Namespace-Resolver/issues/128#issuecomment-3913041900) in [MehediDracula/PHP-Namespace-Resolver](https://github.com/MehediDracula/PHP-Namespace-Resolver)
+2. 🎉 Merged PR [#89](https://github.com/michalsn/codeigniter-htmx/pull/89) in [michalsn/codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx)
+3. 💪 Opened PR [#89](https://github.com/michalsn/codeigniter-htmx/pull/89) in [michalsn/codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx)
 4. 💪 Opened PR [#1](https://github.com/jozefrebjak/listmonk/pull/1) in [jozefrebjak/listmonk](https://github.com/jozefrebjak/listmonk)
 5. 🗣 Commented on [#399](https://github.com/shinsenter/php/issues/399#issuecomment-3586062302) in [shinsenter/php](https://github.com/shinsenter/php)
 <!--END_SECTION:activity-->
