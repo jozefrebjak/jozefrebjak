@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/jozefrebjak/rebjak.com/pull/4) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-2. ❗ Opened issue [#3](https://github.com/jozefrebjak/rebjak.com/issues/3) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-3. 🗣 Commented on [#128](https://github.com/MehediDracula/PHP-Namespace-Resolver/issues/128#issuecomment-3913041900) in [MehediDracula/PHP-Namespace-Resolver](https://github.com/MehediDracula/PHP-Namespace-Resolver)
-4. 🎉 Merged PR [#89](https://github.com/michalsn/codeigniter-htmx/pull/89) in [michalsn/codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx)
-5. 💪 Opened PR [#89](https://github.com/michalsn/codeigniter-htmx/pull/89) in [michalsn/codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx)
+1. 🔒 Closed issue [#7](https://github.com/jozefrebjak/rebjak.com/issues/7) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+2. 🎉 Merged PR [#8](https://github.com/jozefrebjak/rebjak.com/pull/8) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+3. 💪 Opened PR [#8](https://github.com/jozefrebjak/rebjak.com/pull/8) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+4. ❗ Opened issue [#7](https://github.com/jozefrebjak/rebjak.com/issues/7) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+5. 🔒 Closed issue [#5](https://github.com/jozefrebjak/rebjak.com/issues/5) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
