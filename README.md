@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/jozefrebjak/rebjak.com/pull/40) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-2. 🔒 Closed issue [#39](https://github.com/jozefrebjak/rebjak.com/issues/39) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-3. 💪 Opened PR [#40](https://github.com/jozefrebjak/rebjak.com/pull/40) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-4. ❗ Opened issue [#39](https://github.com/jozefrebjak/rebjak.com/issues/39) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-5. 🎉 Merged PR [#38](https://github.com/jozefrebjak/rebjak.com/pull/38) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+1. 🎉 Merged PR [#45](https://github.com/jozefrebjak/rebjak.com/pull/45) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+2. 💪 Opened PR [#45](https://github.com/jozefrebjak/rebjak.com/pull/45) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+3. 🎉 Merged PR [#44](https://github.com/jozefrebjak/rebjak.com/pull/44) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+4. 🔒 Closed issue [#43](https://github.com/jozefrebjak/rebjak.com/issues/43) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+5. 💪 Opened PR [#44](https://github.com/jozefrebjak/rebjak.com/pull/44) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
