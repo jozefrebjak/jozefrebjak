@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#562](https://github.com/Termix-SSH/Support/issues/562) in [Termix-SSH/Support](https://github.com/Termix-SSH/Support)
-2. 🗣 Commented on [#498](https://github.com/Termix-SSH/Support/issues/498#issuecomment-4075239670) in [Termix-SSH/Support](https://github.com/Termix-SSH/Support)
-3. ❗ Opened issue [#561](https://github.com/Termix-SSH/Support/issues/561) in [Termix-SSH/Support](https://github.com/Termix-SSH/Support)
-4. 🔒 Closed issue [#47](https://github.com/jozefrebjak/rebjak.com/issues/47) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-5. 🎉 Merged PR [#48](https://github.com/jozefrebjak/rebjak.com/pull/48) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+1. 💪 Opened PR [#630](https://github.com/Termix-SSH/Termix/pull/630) in [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)
+2. ❗ Opened issue [#562](https://github.com/Termix-SSH/Support/issues/562) in [Termix-SSH/Support](https://github.com/Termix-SSH/Support)
+3. 🗣 Commented on [#498](https://github.com/Termix-SSH/Support/issues/498#issuecomment-4075239670) in [Termix-SSH/Support](https://github.com/Termix-SSH/Support)
+4. ❗ Opened issue [#561](https://github.com/Termix-SSH/Support/issues/561) in [Termix-SSH/Support](https://github.com/Termix-SSH/Support)
+5. 🔒 Closed issue [#47](https://github.com/jozefrebjak/rebjak.com/issues/47) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
