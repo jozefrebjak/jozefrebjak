@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#47](https://github.com/jozefrebjak/rebjak.com/issues/47) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-2. 🎉 Merged PR [#48](https://github.com/jozefrebjak/rebjak.com/pull/48) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-3. 💪 Opened PR [#48](https://github.com/jozefrebjak/rebjak.com/pull/48) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-4. ❗ Opened issue [#47](https://github.com/jozefrebjak/rebjak.com/issues/47) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-5. 🔒 Closed issue [#37](https://github.com/ict-solutions-dev/docker-duoauthproxy/issues/37) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+1. ❗ Opened issue [#561](https://github.com/Termix-SSH/Support/issues/561) in [Termix-SSH/Support](https://github.com/Termix-SSH/Support)
+2. 🔒 Closed issue [#47](https://github.com/jozefrebjak/rebjak.com/issues/47) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+3. 🎉 Merged PR [#48](https://github.com/jozefrebjak/rebjak.com/pull/48) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+4. 💪 Opened PR [#48](https://github.com/jozefrebjak/rebjak.com/pull/48) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+5. ❗ Opened issue [#47](https://github.com/jozefrebjak/rebjak.com/issues/47) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
