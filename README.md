@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#630](https://github.com/Termix-SSH/Termix/pull/630) in [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)
-2. ❗ Opened issue [#562](https://github.com/Termix-SSH/Support/issues/562) in [Termix-SSH/Support](https://github.com/Termix-SSH/Support)
-3. 🗣 Commented on [#498](https://github.com/Termix-SSH/Support/issues/498#issuecomment-4075239670) in [Termix-SSH/Support](https://github.com/Termix-SSH/Support)
-4. ❗ Opened issue [#561](https://github.com/Termix-SSH/Support/issues/561) in [Termix-SSH/Support](https://github.com/Termix-SSH/Support)
-5. 🔒 Closed issue [#47](https://github.com/jozefrebjak/rebjak.com/issues/47) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+1. 🗣 Commented on [#683](https://github.com/bbernhard/signal-cli-rest-api/issues/683#issuecomment-4097246022) in [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api)
+2. 💪 Opened PR [#630](https://github.com/Termix-SSH/Termix/pull/630) in [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)
+3. ❗ Opened issue [#562](https://github.com/Termix-SSH/Support/issues/562) in [Termix-SSH/Support](https://github.com/Termix-SSH/Support)
+4. 🗣 Commented on [#498](https://github.com/Termix-SSH/Support/issues/498#issuecomment-4075239670) in [Termix-SSH/Support](https://github.com/Termix-SSH/Support)
+5. ❗ Opened issue [#561](https://github.com/Termix-SSH/Support/issues/561) in [Termix-SSH/Support](https://github.com/Termix-SSH/Support)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
