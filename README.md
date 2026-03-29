@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/jozefrebjak/rebjak.com/pull/50) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-2. 🔒 Closed issue [#49](https://github.com/jozefrebjak/rebjak.com/issues/49) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-3. 💪 Opened PR [#50](https://github.com/jozefrebjak/rebjak.com/pull/50) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-4. ❗ Opened issue [#49](https://github.com/jozefrebjak/rebjak.com/issues/49) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-5. 🗣 Commented on [#683](https://github.com/bbernhard/signal-cli-rest-api/issues/683#issuecomment-4097246022) in [bbernhard/signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api)
+1. 🎉 Merged PR [#630](https://github.com/Termix-SSH/Termix/pull/630) in [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix)
+2. 🎉 Merged PR [#50](https://github.com/jozefrebjak/rebjak.com/pull/50) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+3. 🔒 Closed issue [#49](https://github.com/jozefrebjak/rebjak.com/issues/49) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+4. 💪 Opened PR [#50](https://github.com/jozefrebjak/rebjak.com/pull/50) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+5. ❗ Opened issue [#49](https://github.com/jozefrebjak/rebjak.com/issues/49) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
