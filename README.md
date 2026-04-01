@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/51) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
-2. 🔒 Closed issue [#50](https://github.com/ict-solutions-dev/docker-duoauthproxy/issues/50) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
-3. 💪 Opened PR [#51](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/51) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
-4. ❗ Opened issue [#50](https://github.com/ict-solutions-dev/docker-duoauthproxy/issues/50) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
-5. 🎉 Merged PR [#48](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/48) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+1. 💪 Opened PR [#55](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/55) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+2. ❗ Opened issue [#54](https://github.com/ict-solutions-dev/docker-duoauthproxy/issues/54) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+3. 🎉 Merged PR [#53](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/53) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+4. 💪 Opened PR [#53](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/53) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+5. ❗ Opened issue [#52](https://github.com/ict-solutions-dev/docker-duoauthproxy/issues/52) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
