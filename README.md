@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/ict-solutions-dev/docker-freeradius/issues/4) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
-2. 🎉 Merged PR [#5](https://github.com/ict-solutions-dev/docker-freeradius/pull/5) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
-3. ℹ️ Assigned PR [#5](https://github.com/ict-solutions-dev/docker-freeradius/pull/5) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
-4. 💪 Opened PR [#7](https://github.com/ict-solutions-dev/docker-freeradius/pull/7) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
-5. ❗ Opened issue [#6](https://github.com/ict-solutions-dev/docker-freeradius/issues/6) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+1. 🔒 Closed issue [#8](https://github.com/ict-solutions-dev/docker-freeradius/issues/8) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+2. 🗣 Commented on [#8](https://github.com/ict-solutions-dev/docker-freeradius/issues/8#issuecomment-4175828194) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+3. ❌ Closed PR [#9](https://github.com/ict-solutions-dev/docker-freeradius/pull/9) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+4. 🗣 Commented on [#9](https://github.com/ict-solutions-dev/docker-freeradius/pull/9#issuecomment-4175827935) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+5. 💪 Opened PR [#9](https://github.com/ict-solutions-dev/docker-freeradius/pull/9) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
