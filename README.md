@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/55) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
-2. ❗ Opened issue [#54](https://github.com/ict-solutions-dev/docker-duoauthproxy/issues/54) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
-3. 🎉 Merged PR [#53](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/53) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
-4. 💪 Opened PR [#53](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/53) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
-5. ❗ Opened issue [#52](https://github.com/ict-solutions-dev/docker-duoauthproxy/issues/52) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+1. 🔒 Closed issue [#4](https://github.com/ict-solutions-dev/docker-freeradius/issues/4) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+2. 🎉 Merged PR [#5](https://github.com/ict-solutions-dev/docker-freeradius/pull/5) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+3. ℹ️ Assigned PR [#5](https://github.com/ict-solutions-dev/docker-freeradius/pull/5) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+4. 💪 Opened PR [#7](https://github.com/ict-solutions-dev/docker-freeradius/pull/7) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+5. ❗ Opened issue [#6](https://github.com/ict-solutions-dev/docker-freeradius/issues/6) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
