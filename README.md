@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/ict-solutions-dev/docker-freeradius/issues/8) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
-2. 🗣 Commented on [#8](https://github.com/ict-solutions-dev/docker-freeradius/issues/8#issuecomment-4175828194) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
-3. ❌ Closed PR [#9](https://github.com/ict-solutions-dev/docker-freeradius/pull/9) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
-4. 🗣 Commented on [#9](https://github.com/ict-solutions-dev/docker-freeradius/pull/9#issuecomment-4175827935) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
-5. 💪 Opened PR [#9](https://github.com/ict-solutions-dev/docker-freeradius/pull/9) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+1. 🎉 Merged PR [#56](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/56) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+2. 💪 Opened PR [#56](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/56) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+3. 🔒 Closed issue [#8](https://github.com/ict-solutions-dev/docker-freeradius/issues/8) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+4. 🗣 Commented on [#8](https://github.com/ict-solutions-dev/docker-freeradius/issues/8#issuecomment-4175828194) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+5. ❌ Closed PR [#9](https://github.com/ict-solutions-dev/docker-freeradius/pull/9) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
