@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#57](https://github.com/ict-solutions-dev/docker-duoauthproxy/issues/57) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
-2. 🎉 Merged PR [#58](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/58) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
-3. 💪 Opened PR [#58](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/58) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
-4. ❗ Opened issue [#57](https://github.com/ict-solutions-dev/docker-duoauthproxy/issues/57) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
-5. 🔒 Closed issue [#52](https://github.com/ict-solutions-dev/docker-duoauthproxy/issues/52) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+1. 🔒 Closed issue [#1](https://github.com/jozefrebjak/home-rebjak/issues/1) in [jozefrebjak/home-rebjak](https://github.com/jozefrebjak/home-rebjak)
+2. 🎉 Merged PR [#2](https://github.com/jozefrebjak/home-rebjak/pull/2) in [jozefrebjak/home-rebjak](https://github.com/jozefrebjak/home-rebjak)
+3. 💪 Opened PR [#2](https://github.com/jozefrebjak/home-rebjak/pull/2) in [jozefrebjak/home-rebjak](https://github.com/jozefrebjak/home-rebjak)
+4. ❗ Opened issue [#1](https://github.com/jozefrebjak/home-rebjak/issues/1) in [jozefrebjak/home-rebjak](https://github.com/jozefrebjak/home-rebjak)
+5. 🔒 Closed issue [#57](https://github.com/ict-solutions-dev/docker-duoauthproxy/issues/57) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
