@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/7) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
-2. 🎉 Merged PR [#6](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/6) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
-3. ℹ️ Labeled PR [#6](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/6) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
-4. ℹ️ Unlabeled PR [#6](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/6) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
-5. ℹ️ Labeled PR [#6](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/6) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
+1. 🎉 Merged PR [#10](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/10) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
+2. 💪 Opened PR [#10](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/10) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
+3. 🎉 Merged PR [#9](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/9) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
+4. ℹ️ Assigned PR [#9](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/9) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
+5. 💪 Opened PR [#9](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/9) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
