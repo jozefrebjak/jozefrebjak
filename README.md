@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/5#issuecomment-4630099021) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
-2. 🗣 Commented on [#1](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/1#issuecomment-4630096511) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
-3. 🗣 Commented on [#4](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/4#issuecomment-4630097756) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
-4. 💪 Opened PR [#6](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/6) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
-5. 🗣 Commented on [#2](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/2#issuecomment-4630096961) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
+1. 💪 Opened PR [#7](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/7) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
+2. 🎉 Merged PR [#6](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/6) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
+3. ℹ️ Labeled PR [#6](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/6) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
+4. ℹ️ Unlabeled PR [#6](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/6) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
+5. ℹ️ Labeled PR [#6](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/6) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
