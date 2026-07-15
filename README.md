@@ -27,7 +27,7 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/10) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
+1. ❗ Opened issue [#424](https://github.com/shinsenter/php/issues/424) in [shinsenter/php](https://github.com/shinsenter/php)
 2. 💪 Opened PR [#10](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/10) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
 3. 🎉 Merged PR [#9](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/9) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
 4. ℹ️ Assigned PR [#9](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/9) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
