@@ -27,11 +27,11 @@
 
 ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#424](https://github.com/shinsenter/php/issues/424) in [shinsenter/php](https://github.com/shinsenter/php)
-2. 💪 Opened PR [#10](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/10) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
-3. 🎉 Merged PR [#9](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/9) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
-4. ℹ️ Assigned PR [#9](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/9) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
-5. 💪 Opened PR [#9](https://github.com/ict-solutions-dev/alertmanager-webhook-signal/pull/9) in [ict-solutions-dev/alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal)
+1. ❌ Closed PR [#61](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/61) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+2. 🗣 Commented on [#61](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/61#issuecomment-5042951770) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+3. 🗣 Commented on [#63](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/63#issuecomment-5042951397) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+4. ❌ Closed PR [#63](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/63) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+5. 💪 Opened PR [#63](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/63) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
 <!--END_SECTION:activity-->
   
 ## What I'm listening to
