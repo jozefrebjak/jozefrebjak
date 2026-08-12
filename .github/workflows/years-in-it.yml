@@ -1,0 +1,63 @@
+name: Years in IT
+
+on:
+  schedule:
+    # First day of every month
+    - cron: '0 5 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  # Career start — change this one value if the starting point is different
+  IT_START_DATE: '2017-09-01'
+
+jobs:
+  update-years-badge:
+    runs-on: ubuntu-latest
+    name: Recalculate the years-in-IT badge
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rewrite badge between markers
+        run: |
+          python3 - <<'PY'
+          import os, re, datetime
+
+          start = datetime.date.fromisoformat(os.environ['IT_START_DATE'])
+          today = datetime.date.today()
+          years = today.year - start.year - ((today.month, today.day) < (start.month, start.day))
+
+          badge = (
+              f'<img src="https://img.shields.io/badge/{years}%2B-years%20in%20IT-1F2937'
+              f'?style=flat-square" alt="{years}+ years in IT" />'
+          )
+
+          with open('README.md', encoding='utf-8') as handle:
+              readme = handle.read()
+
+          updated = re.sub(
+              r'(<!-- YEARS-IN-IT:START -->).*?(<!-- YEARS-IN-IT:END -->)',
+              lambda match: match.group(1) + badge + match.group(2),
+              readme,
+              flags=re.DOTALL,
+          )
+
+          if updated != readme:
+              with open('README.md', 'w', encoding='utf-8') as handle:
+                  handle.write(updated)
+              print(f'Updated badge to {years}+ years')
+          else:
+              print(f'Badge already shows {years}+ years')
+          PY
+
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git config user.name  'github-actions[bot]'
+            git config user.email 'github-actions[bot]@users.noreply.github.com'
+            git commit -am 'docs: update years-in-IT badge'
+            git push
+          fi

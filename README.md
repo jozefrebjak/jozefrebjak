@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/8%2B-years%20in%20IT-1F2937?style=flat-square" alt="8+ years in IT" />
+  <!-- YEARS-IN-IT:START --><img src="https://img.shields.io/badge/8%2B-years%20in%20IT-1F2937?style=flat-square" alt="8+ years in IT" /><!-- YEARS-IN-IT:END -->
   <img src="https://img.shields.io/badge/2017-first%20network-1F2937?style=flat-square" alt="First network in 2017" />
   <img src="https://img.shields.io/badge/100%2B-Linux%20servers-1F2937?style=flat-square" alt="100+ Linux servers" />
 </p>
@@ -83,13 +83,13 @@
 
 Actively maintained — containers, exporters and tooling running in production at ISP and enterprise scale, mostly under [@ict-solutions-dev](https://github.com/ict-solutions-dev).
 
-| Project | What it is |
-| --- | --- |
-| [docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy) | Containerised Duo Authentication Proxy — ENV-first configuration, Docker secrets, multi-arch builds, Trivy scanning, SBOM and build provenance attestation |
-| [alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal) | Go webhook that delivers Prometheus Alertmanager alerts straight to Signal |
-| [docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius) | FreeRADIUS container tuned for ISP deployments |
-| [freeradius_exporter](https://github.com/ict-solutions-dev/freeradius_exporter) | Prometheus exporter for FreeRADIUS metrics |
-| [rebjak.com](https://github.com/jozefrebjak/rebjak.com) | My personal site and blog — Astro 5, Tailwind v4, full i18n, PageSpeed 100/100/100/100 |
+| Project | What it is | Activity |
+| --- | --- | --- |
+| [docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy) | Containerised Duo Authentication Proxy — ENV-first configuration, Docker secrets, multi-arch builds, Trivy scanning, SBOM and build provenance attestation | ![](https://img.shields.io/github/last-commit/ict-solutions-dev/docker-duoauthproxy?style=flat-square&label=) |
+| [alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal) | Go webhook that delivers Prometheus Alertmanager alerts straight to Signal | ![](https://img.shields.io/github/last-commit/ict-solutions-dev/alertmanager-webhook-signal?style=flat-square&label=) |
+| [docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius) | FreeRADIUS container tuned for ISP deployments | ![](https://img.shields.io/github/last-commit/ict-solutions-dev/docker-freeradius?style=flat-square&label=) |
+| [freeradius_exporter](https://github.com/ict-solutions-dev/freeradius_exporter) | Prometheus exporter for FreeRADIUS metrics | ![](https://img.shields.io/github/last-commit/ict-solutions-dev/freeradius_exporter?style=flat-square&label=) |
+| [rebjak.com](https://github.com/jozefrebjak/rebjak.com) | My personal site and blog — Astro 5, Tailwind v4, full i18n, PageSpeed 100/100/100/100 | ![](https://img.shields.io/github/last-commit/jozefrebjak/rebjak.com?style=flat-square&label=) |
 
 Also maintained: [codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius) and [codeigniter-breadcrumbs](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs) — helper libraries for CodeIgniter 4.
 
@@ -118,8 +118,6 @@ Also maintained: [codeigniter-freeradius](https://github.com/ict-solutions-dev/c
 
 [![](https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jozefrebjak&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 
 ---
 
