@@ -1,31 +1,125 @@
-### Hi there I am Jozef Rebjak<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br/>
+<h1 align="center">Hi, I'm Jozef 👋</h1>
 
-<a href="https://www.linkedin.com/in/jozefrebjak"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<p align="center">
+  <b>DevOps engineer. Servers, automation, code.</b><br/>
+  Started on networks, now I write code and automate everything I can —<br/>
+  from network to deploy. Linux, Docker, PHP, CI/CD.
+</p>
 
-### Languages and tools ⚙️
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<p>
-<img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/>
-<img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
+<p align="center">
+  <a href="https://rebjak.com"><img src="https://img.shields.io/badge/rebjak.com-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Website" /></a>
+  <a href="https://rebjak.com/en/cv/"><img src="https://img.shields.io/badge/CV-0EA5E9?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
+  <a href="https://rebjak.com/en/blog/"><img src="https://img.shields.io/badge/Blog-10B981?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+  <a href="https://www.linkedin.com/in/jozefrebjak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jozef.rebjak@ictsolutions.net"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/8%2B-years%20in%20IT-1F2937?style=flat-square" alt="8+ years in IT" />
+  <img src="https://img.shields.io/badge/2017-first%20network-1F2937?style=flat-square" alt="First network in 2017" />
+  <img src="https://img.shields.io/badge/100%2B-Linux%20servers-1F2937?style=flat-square" alt="100+ Linux servers" />
+</p>
+
+<p align="center">
+  DevOps Engineer &amp; Full-stack Developer at <a href="https://www.ictsolutions.net">ICT Solutions</a> · Slovakia 🇸🇰
 </p>
 
 ---
 
-### My Github Stats 📊
+### 🔭 Currently working on
+
+- **Proxmox VE + Ceph** — HA clusters, cross-cluster VM migrations, cloud-init templates, node lifecycle and upgrades
+- **Monitoring at scale** — LibreNMS with distributed pollers, RRDCached and SNMP tuning; Prometheus, Grafana, Loki and Alertmanager on top
+- **Containerised platform services** — Docker Swarm stacks running PowerDNS, FreeRADIUS with Duo MFA, Nginx, Bitwarden and BookStack
+- **Backup &amp; DR** — enterprise backup and Backup-as-a-Service delivery, including regular restore testing
+- **CI/CD &amp; automation** — Ansible, GitHub Actions, Bash and Python tooling, multi-arch image pipelines with Trivy scanning and SBOM attestation
+- **Web development** — CodeIgniter 4 + HTMX applications, Astro sites, internal dashboards and tooling
+
+### 🧰 Tech I work with
+
+**Infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/KVM%20%2F%20LXC-1793D1?style=flat-square&logo=linuxcontainers&logoColor=white" alt="KVM / LXC" />
+  <img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware ESXi" />
+  <img src="https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white" alt="Ceph" />
+  <img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Swarm" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white" alt="Azure" />
+</p>
+
+**Networking &amp; monitoring**
+
+<p>
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet" />
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik" />
+  <img src="https://img.shields.io/badge/BGP%20%2F%20OSPF-334155?style=flat-square" alt="BGP / OSPF" />
+  <img src="https://img.shields.io/badge/VLANs%20%2F%20VPN-334155?style=flat-square" alt="VLANs / VPN" />
+  <img src="https://img.shields.io/badge/SNMP-334155?style=flat-square" alt="SNMP" />
+  <img src="https://img.shields.io/badge/LibreNMS-1B9CE0?style=flat-square&logoColor=white" alt="LibreNMS" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Loki" />
+</p>
+
+**Code**
+
+<p>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/CodeIgniter%204-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
+  <img src="https://img.shields.io/badge/HTMX-3D72D7?style=flat-square&logo=htmx&logoColor=white" alt="HTMX" />
+  <img src="https://img.shields.io/badge/FrankenPHP-00B4C8?style=flat-square&logo=php&logoColor=white" alt="FrankenPHP" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### 📦 Featured projects
+
+Actively maintained — containers, exporters and tooling running in production at ISP and enterprise scale, mostly under [@ict-solutions-dev](https://github.com/ict-solutions-dev).
+
+| Project | What it is |
+| --- | --- |
+| [docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy) | Containerised Duo Authentication Proxy — ENV-first configuration, Docker secrets, multi-arch builds, Trivy scanning, SBOM and build provenance attestation |
+| [alertmanager-webhook-signal](https://github.com/ict-solutions-dev/alertmanager-webhook-signal) | Go webhook that delivers Prometheus Alertmanager alerts straight to Signal |
+| [docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius) | FreeRADIUS container tuned for ISP deployments |
+| [freeradius_exporter](https://github.com/ict-solutions-dev/freeradius_exporter) | Prometheus exporter for FreeRADIUS metrics |
+| [rebjak.com](https://github.com/jozefrebjak/rebjak.com) | My personal site and blog — Astro 5, Tailwind v4, full i18n, PageSpeed 100/100/100/100 |
+
+Also maintained: [codeigniter-freeradius](https://github.com/ict-solutions-dev/codeigniter-freeradius) and [codeigniter-breadcrumbs](https://github.com/ict-solutions-dev/codeigniter-breadcrumbs) — helper libraries for CodeIgniter 4.
+
+> Most of my day-to-day work lives in private and internal repositories. There is more on **[rebjak.com/portfolio](https://rebjak.com/en/portfolio/)**.
+
+---
+
+### 📝 Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More posts on rebjak.com](https://rebjak.com/en/blog/)
+
+---
+
+### 📊 GitHub stats
 
 [![](https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jozefrebjak&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 
 ---
 
-### ✨ My Recent Activity
+### ✨ Recent activity
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#61](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/61) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
 2. 🗣 Commented on [#61](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/61#issuecomment-5042951770) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
@@ -33,7 +127,3 @@
 4. ❌ Closed PR [#63](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/63) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
 5. 💪 Opened PR [#63](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/63) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
 <!--END_SECTION:activity-->
-  
-## What I'm listening to
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=38oryf5o1vvrxtmzennsz61q9&unique={true|1|on|yes})
