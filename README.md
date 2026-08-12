@@ -98,7 +98,11 @@ Also maintained: [codeigniter-freeradius](https://github.com/ict-solutions-dev/c
 ---
 
 ### 📝 Latest blog posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [NVIDIA DGX Spark — first boot and local LLM inference](https://rebjak.com/en/blog/nvidia-dgx-spark-first-boot/) <sub>Mar 23, 2026</sub>
+- [PageSpeed 100 on GitHub Pages — from 87 to a perfect score](https://rebjak.com/en/blog/pagespeed-optimization/) <sub>Mar 8, 2026</sub>
+- [SEO for an Astro blog — OG images, JSON-LD and noindex](https://rebjak.com/en/blog/seo-og-images-json-ld/) <sub>Mar 7, 2026</sub>
+- [GitHub release process for small projects](https://rebjak.com/en/blog/github-release-process/) <sub>Mar 7, 2026</sub>
+- [Production-ready Ubuntu 24.04 template in Proxmox](https://rebjak.com/en/blog/production-ready-ubuntu-24-template-proxmox/) <sub>Mar 6, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts on rebjak.com](https://rebjak.com/en/blog/)
