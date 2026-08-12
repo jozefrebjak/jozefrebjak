@@ -111,13 +111,19 @@ Also maintained: [codeigniter-freeradius](https://github.com/ict-solutions-dev/c
 
 ### 📊 GitHub stats
 
-[![](https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" />
+</picture>
 
-[![](https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github/3-stats.svg" alt="Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
+  <img src="https://raw.githubusercontent.com/jozefrebjak/jozefrebjak/main/profile-summary-card-output/github/4-productive-time.svg" alt="Productive time" />
+</picture>
 
 ---
 
