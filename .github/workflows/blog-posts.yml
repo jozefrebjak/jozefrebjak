@@ -14,7 +14,7 @@ jobs:
     name: Pull latest posts from rebjak.com RSS
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://rebjak.com/en/rss.xml"
