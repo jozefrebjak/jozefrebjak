@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <!-- YEARS-IN-IT:START --><img src="https://img.shields.io/badge/8%2B-years%20in%20IT-1F2937?style=flat-square" alt="8+ years in IT" /><!-- YEARS-IN-IT:END -->
+  <!-- YEARS-IN-IT:START --><img src="https://img.shields.io/badge/9%2B-years%20in%20IT-1F2937?style=flat-square" alt="9+ years in IT" /><!-- YEARS-IN-IT:END -->
   <img src="https://img.shields.io/badge/2017-first%20network-1F2937?style=flat-square" alt="First network in 2017" />
   <img src="https://img.shields.io/badge/100%2B-Linux%20servers-1F2937?style=flat-square" alt="100+ Linux servers" />
 </p>
