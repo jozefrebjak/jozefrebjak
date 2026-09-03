@@ -129,9 +129,9 @@ Also maintained: [codeigniter-freeradius](https://github.com/ict-solutions-dev/c
 
 ### ✨ Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jozefrebjak/librenms-signal-report/pull/1) in [jozefrebjak/librenms-signal-report](https://github.com/jozefrebjak/librenms-signal-report)
-2. 💪 Opened PR [#1](https://github.com/jozefrebjak/librenms-signal-report/pull/1) in [jozefrebjak/librenms-signal-report](https://github.com/jozefrebjak/librenms-signal-report)
-3. 🗣 Commented on [#63](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/63#issuecomment-5042951397) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
-4. ❌ Closed PR [#63](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/63) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
+1. 🎉 Merged PR [#1](https://github.com/jozefrebjak/homeassistant-bluetooth-mesh/pull/1) in [jozefrebjak/homeassistant-bluetooth-mesh](https://github.com/jozefrebjak/homeassistant-bluetooth-mesh)
+2. 💪 Opened PR [#1](https://github.com/jozefrebjak/homeassistant-bluetooth-mesh/pull/1) in [jozefrebjak/homeassistant-bluetooth-mesh](https://github.com/jozefrebjak/homeassistant-bluetooth-mesh)
+3. 🎉 Merged PR [#1](https://github.com/jozefrebjak/librenms-signal-report/pull/1) in [jozefrebjak/librenms-signal-report](https://github.com/jozefrebjak/librenms-signal-report)
+4. 💪 Opened PR [#1](https://github.com/jozefrebjak/librenms-signal-report/pull/1) in [jozefrebjak/librenms-signal-report](https://github.com/jozefrebjak/librenms-signal-report)
 5. 💪 Opened PR [#63](https://github.com/ict-solutions-dev/docker-duoauthproxy/pull/63) in [ict-solutions-dev/docker-duoauthproxy](https://github.com/ict-solutions-dev/docker-duoauthproxy)
 <!--END_SECTION:activity-->
