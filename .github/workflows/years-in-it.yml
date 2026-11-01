@@ -19,7 +19,7 @@ jobs:
     name: Recalculate the years-in-IT badge
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Rewrite badge between markers
         run: |
