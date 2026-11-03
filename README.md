@@ -129,9 +129,9 @@ Also maintained: [codeigniter-freeradius](https://github.com/ict-solutions-dev/c
 
 ### ✨ Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#434](https://github.com/shinsenter/php/issues/434#issuecomment-6317237220) in [shinsenter/php](https://github.com/shinsenter/php)
-2. ℹ️ Assigned PR [#51](https://github.com/jozefrebjak/rebjak.com/pull/51) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-3. 🚀 Published release [v1.0.0](https://github.com/jozefrebjak/librenms-plugin-cisco-pppoe/releases/tag/v1.0.0) in [jozefrebjak/librenms-plugin-cisco-pppoe](https://github.com/jozefrebjak/librenms-plugin-cisco-pppoe)
+1. 🎉 Merged PR [#52](https://github.com/jozefrebjak/rebjak.com/pull/52) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+2. 💪 Opened PR [#52](https://github.com/jozefrebjak/rebjak.com/pull/52) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+3. 🗣 Commented on [#434](https://github.com/shinsenter/php/issues/434#issuecomment-6317237220) in [shinsenter/php](https://github.com/shinsenter/php)
 4. 💪 Opened PR [#51](https://github.com/jozefrebjak/rebjak.com/pull/51) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
 5. 🎉 Merged PR [#1](https://github.com/jozefrebjak/homeassistant-bluetooth-mesh/pull/1) in [jozefrebjak/homeassistant-bluetooth-mesh](https://github.com/jozefrebjak/homeassistant-bluetooth-mesh)
 <!--END_SECTION:activity-->
