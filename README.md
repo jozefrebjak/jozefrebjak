@@ -129,9 +129,9 @@ Also maintained: [codeigniter-freeradius](https://github.com/ict-solutions-dev/c
 
 ### ✨ Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/ict-solutions-dev/docker-freeradius/pull/14) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
-2. ❌ Closed PR [#11](https://github.com/ict-solutions-dev/docker-freeradius/pull/11) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
-3. 🎉 Merged PR [#16](https://github.com/ict-solutions-dev/docker-freeradius/pull/16) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
-4. 💪 Opened PR [#16](https://github.com/ict-solutions-dev/docker-freeradius/pull/16) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
-5. 🗣 Commented on [#14](https://github.com/ict-solutions-dev/docker-freeradius/pull/14#issuecomment-6766530451) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+1. 🗣 Commented on [#11](https://github.com/ict-solutions-dev/docker-freeradius/pull/11#issuecomment-6769667210) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+2. 🗣 Commented on [#14](https://github.com/ict-solutions-dev/docker-freeradius/pull/14#issuecomment-6769668959) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+3. ❌ Closed PR [#14](https://github.com/ict-solutions-dev/docker-freeradius/pull/14) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+4. ❌ Closed PR [#11](https://github.com/ict-solutions-dev/docker-freeradius/pull/11) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
+5. 🎉 Merged PR [#16](https://github.com/ict-solutions-dev/docker-freeradius/pull/16) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
 <!--END_SECTION:activity-->
