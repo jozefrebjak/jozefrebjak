@@ -129,9 +129,9 @@ Also maintained: [codeigniter-freeradius](https://github.com/ict-solutions-dev/c
 
 ### ✨ Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#324327](https://github.com/Homebrew/homebrew-core/pull/324327) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. 🎉 Merged PR [#52](https://github.com/jozefrebjak/rebjak.com/pull/52) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
-3. 💪 Opened PR [#52](https://github.com/jozefrebjak/rebjak.com/pull/52) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+1. 🎉 Merged PR [#53](https://github.com/jozefrebjak/rebjak.com/pull/53) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+2. 💪 Opened PR [#53](https://github.com/jozefrebjak/rebjak.com/pull/53) in [jozefrebjak/rebjak.com](https://github.com/jozefrebjak/rebjak.com)
+3. 💪 Opened PR [#324327](https://github.com/Homebrew/homebrew-core/pull/324327) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 4. 🗣 Commented on [#434](https://github.com/shinsenter/php/issues/434#issuecomment-6317237220) in [shinsenter/php](https://github.com/shinsenter/php)
 5. 🎉 Merged PR [#16](https://github.com/ict-solutions-dev/docker-freeradius/pull/16) in [ict-solutions-dev/docker-freeradius](https://github.com/ict-solutions-dev/docker-freeradius)
 <!--END_SECTION:activity-->
